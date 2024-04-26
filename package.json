@@ -1,0 +1,19 @@
+{
+  "name": "autojsoner",
+  "version": "1.0.2",
+  "description": "A simplified set of scripts to ease Spotify API calls and access token creation.",
+  "main": "tokenCaller.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "spotify_autoJSONer"
+  },
+  "author": "fbithegamer",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
